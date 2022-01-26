@@ -1,2 +1,3 @@
 # Galactic-
-Human music for ALL Galactic Species 
+Streaming music for space colonization 
+Music accessability on Mars 
